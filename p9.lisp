@@ -18,4 +18,4 @@
         (pack-build (cdr lst) 
                     (list (list (car lst))))))
 
-(print (pack '(a a a a b c c a a d e e e e)))
+; (print (pack '(a a a a b c c a a d e e e e)))

@@ -4,4 +4,4 @@
         ((null (cdr lista12)) (normalize (car lista12)))
         (t (append (normalize (car lista12)) (normalize (cdr lista12))))))
 
-(print (normalize '(a (b (c d) e))))
+; (print (normalize '(a (b (c d) e))))

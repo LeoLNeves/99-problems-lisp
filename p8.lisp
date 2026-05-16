@@ -8,4 +8,4 @@
 (defun compress (lst)
     (compress-build lst ()))
 
-(print (compress '(a a a a b c c a a d e e e e)))
+; (print (compress '(a a a a b c c a a d e e e e)))

@@ -8,4 +8,4 @@
         0
         (count-num-of-el lst 1)))
 
-(print (num-of-elem '(a b c d e f g)))
+; (print (num-of-elem '(a b c d e f g)))

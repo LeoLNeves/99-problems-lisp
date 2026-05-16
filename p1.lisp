@@ -3,4 +3,4 @@
         lst
         (find-last (cdr lst))))
 
-(print (find-last '(a b c d)))
+; (print (find-last '(a b c d)))
